@@ -15,21 +15,22 @@
 
 
 ```python
-┌──(Solve@root)-[~/]
-└─$ py Solve.py
+┌──(Hta@root)-[~/]
+└─$ py hta.py
 
 class Solve:
 
 def  __social__(self):
- self.github = "https://github.com/imsolve"
- self.socials = "https://guns.lol/solve" 
- self.discord = "https://discord.gg/haxxor"
+ self.github = "https://github.com/maybehta/hta
+
+"
+ self.discord = "https://discord.gg/htaservices"
   
- ┌──(Solve@root)-[~/]
+ ┌──(Hta@root)-[~/]
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/@:solve" alt=":solve" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:hta" alt=":solve" /></p>
 
  
 
